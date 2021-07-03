@@ -1,0 +1,2 @@
+var markets = ["aave", "ada", "algo", "atom", "bal", "band", "bat", "bch", "btc", "btt", "comp", "dai", "dcr", "doge", "dot", "eos", "etc", "eth", "fil", "grt", "hbar", "knc", "ksm", "link", "ltc", "luna", "mkr", "neo", "omg", "ont", "oxt", "ren", "rvn", "trx", "uma", "uni", "usdc", "xlm", "xrp", "xtz", "zrx"];
+module.exports = markets;

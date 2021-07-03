@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1 Crypto Arbitrage Monitoring Tool <br>
+  <div id="gen_table"></div>
+  script.
+     var markets=!{JSON.stringify(markets)};
+
+  script(src='/javascripts/client.js').
+  script(type='text/javascript').
+    var gen_table = document.getElementById("gen_table");
+  script.
+    window.onload = VanillaData;

@@ -1,0 +1,427 @@
+[
+ {
+   "id": 1070,
+   "symbol": "ARDX",
+   "name": "ArdCoin"
+ },
+ {
+   "id": 1054,
+   "symbol": "BITS",
+   "name": "Bitcoinus"
+ },
+ {
+   "id": 1251,
+   "symbol": "BNZ",
+   "name": "BonezYard Music Platform"
+ },
+ {
+   "id": 406,
+   "symbol": "BTC",
+   "name": "Bitcoin"
+ },
+ {
+   "id": 1049,
+   "symbol": "BTNT",
+   "name": "BitNautic Token"
+ },
+ {
+   "id": 437,
+   "symbol": "C2C",
+   "name": "C2C System"
+ },
+ {
+   "id": 1097,
+   "symbol": "CBUCKS",
+   "name": "CRYPTOBUCKS"
+ },
+ {
+   "id": 719,
+   "symbol": "CDM",
+   "name": "Condominium"
+ },
+ {
+   "id": 1222,
+   "symbol": "CEEK",
+   "name": "CEEK"
+ },
+ {
+   "id": 1267,
+   "symbol": "CHESS",
+   "name": "ChessCoin 032"
+ },
+ {
+   "id": 559,
+   "symbol": "CLO",
+   "name": "Callisto"
+ },
+ {
+   "id": 1154,
+   "symbol": "CPTL",
+   "name": "Capital Coin"
+ },
+ {
+   "id": 1202,
+   "symbol": "CRDT",
+   "name": "Crypto Daily Token"
+ },
+ {
+   "id": 1067,
+   "symbol": "DAB",
+   "name": "Dabanking"
+ },
+ {
+   "id": 425,
+   "symbol": "DASH",
+   "name": "Dash"
+ },
+ {
+   "id": 919,
+   "symbol": "DASHG",
+   "name": "Dash Green"
+ },
+ {
+   "id": 1259,
+   "symbol": "DESH",
+   "name": "DeCash"
+ },
+ {
+   "id": 1131,
+   "symbol": "DGB",
+   "name": "DigiByte"
+ },
+ {
+   "id": 1159,
+   "symbol": "DIVI",
+   "name": "Divi"
+ },
+ {
+   "id": 1205,
+   "symbol": "DRS",
+   "name": "Doctors Coin"
+ },
+ {
+   "id": 1254,
+   "symbol": "EDC",
+   "name": "EDC Blockchain"
+ },
+ {
+   "id": 697,
+   "symbol": "ELY",
+   "name": "Elycoin"
+ },
+ {
+   "id": 407,
+   "symbol": "ETH",
+   "name": "Ethereum"
+ },
+ {
+   "id": 1032,
+   "symbol": "EXOR",
+   "name": "EXOR"
+ },
+ {
+   "id": 1072,
+   "symbol": "FREE",
+   "name": "Free Coin"
+ },
+ {
+   "id": 877,
+   "symbol": "GIT",
+   "name": "GoDigit"
+ },
+ {
+   "id": 725,
+   "symbol": "GPYX",
+   "name": "GoldenPyrex"
+ },
+ {
+   "id": 958,
+   "symbol": "HBX",
+   "name": "HashBX"
+ },
+ {
+   "id": 856,
+   "symbol": "HELP",
+   "name": "GoHelpFund"
+ },
+ {
+   "id": 1126,
+   "symbol": "HMR",
+   "name": "Homeros"
+ },
+ {
+   "id": 1282,
+   "symbol": "HYD",
+   "name": "HYDRA"
+ },
+ {
+   "id": 1182,
+   "symbol": "IDX",
+   "name": "Index Chain"
+ },
+ {
+   "id": 1146,
+   "symbol": "INNBC",
+   "name": "InnovativeBioresearchCoin"
+ },
+ {
+   "id": 924,
+   "symbol": "JOOS",
+   "name": "Joos Protocol"
+ },
+ {
+   "id": 1160,
+   "symbol": "JUP",
+   "name": "Jupiter"
+ },
+ {
+   "id": 1123,
+   "symbol": "KICK",
+   "name": "KickToken"
+ },
+ {
+   "id": 1129,
+   "symbol": "LMCH",
+   "name": "Latamcash"
+ },
+ {
+   "id": 1287,
+   "symbol": "LONG",
+   "name": "LONG COIN"
+ },
+ {
+   "id": 1117,
+   "symbol": "LST",
+   "name": "LuckySeventoken"
+ },
+ {
+   "id": 408,
+   "symbol": "LTC",
+   "name": "Litecoin"
+ },
+ {
+   "id": 803,
+   "symbol": "MBC",
+   "name": "Microbitcoin"
+ },
+ {
+   "id": 955,
+   "symbol": "MNC",
+   "name": "Maincoin"
+ },
+ {
+   "id": 607,
+   "symbol": "NANJ",
+   "name": "NANJCOIN"
+ },
+ {
+   "id": 544,
+   "symbol": "NEXO",
+   "name": "Nexo"
+ },
+ {
+   "id": 410,
+   "symbol": "NXT",
+   "name": "Nxt"
+ },
+ {
+   "id": 1174,
+   "symbol": "NYC",
+   "name": "NewYorkCoin"
+ },
+ {
+   "id": 1280,
+   "symbol": "PLEX",
+   "name": "PLEX"
+ },
+ {
+   "id": 1100,
+   "symbol": "PLF",
+   "name": "PlayFuel"
+ },
+ {
+   "id": 693,
+   "symbol": "PLTS",
+   "name": "Ploutos"
+ },
+ {
+   "id": 665,
+   "symbol": "QURO",
+   "name": "Qurito"
+ },
+ {
+   "id": 1023,
+   "symbol": "REV",
+   "name": "Revain"
+ },
+ {
+   "id": 1103,
+   "symbol": "RNDR",
+   "name": "Render Token"
+ },
+ {
+   "id": 451,
+   "symbol": "RUPX",
+   "name": "RUPX"
+ },
+ {
+   "id": 858,
+   "symbol": "sBTC",
+   "name": "Siambitcoin"
+ },
+ {
+   "id": 1283,
+   "symbol": "SIC",
+   "name": "SICash"
+ },
+ {
+   "id": 1231,
+   "symbol": "SIN",
+   "name": "Sinovate"
+ },
+ {
+   "id": 1048,
+   "symbol": "SINGH",
+   "name": "SinghCoin"
+ },
+ {
+   "id": 623,
+   "symbol": "SKB",
+   "name": "SakuraBloom"
+ },
+ {
+   "id": 1297,
+   "symbol": "SMART",
+   "name": "SmartCash"
+ },
+ {
+   "id": 1295,
+   "symbol": "SONO",
+   "name": "SonoCoin"
+ },
+ {
+   "id": 949,
+   "symbol": "SPRKL",
+   "name": "Sparkle"
+ },
+ {
+   "id": 1237,
+   "symbol": "SWFL",
+   "name": "Swapfolio"
+ },
+ {
+   "id": 1025,
+   "symbol": "SYO",
+   "name": "Symbio"
+ },
+ {
+   "id": 1200,
+   "symbol": "TAN",
+   "name": "Taklimakan Network"
+ },
+ {
+   "id": 1017,
+   "symbol": "TEO",
+   "name": "Trust Eth reOrigin"
+ },
+ {
+   "id": 1149,
+   "symbol": "TNC",
+   "name": "TNC Group Token"
+ },
+ {
+   "id": 981,
+   "symbol": "TSF",
+   "name": "Teslafunds"
+ },
+ {
+   "id": 895,
+   "symbol": "TUSD",
+   "name": "TrueUSD"
+ },
+ {
+   "id": 1008,
+   "symbol": "TVT",
+   "name": "TVT"
+ },
+ {
+   "id": 1273,
+   "symbol": "UCOIN",
+   "name": "UCoin"
+ },
+ {
+   "id": 1107,
+   "symbol": "USDA",
+   "name": "USDA"
+ },
+ {
+   "id": 444,
+   "symbol": "VIT",
+   "name": "ViceIndustry"
+ },
+ {
+   "id": 1027,
+   "symbol": "VOCO",
+   "name": "Provoco"
+ },
+ {
+   "id": 1076,
+   "symbol": "VOLTZ",
+   "name": "VOLTZ"
+ },
+ {
+   "id": 1021,
+   "symbol": "VRA",
+   "name": "Verasity"
+ },
+ {
+   "id": 1132,
+   "symbol": "WABI",
+   "name": "Tael"
+ },
+ {
+   "id": 796,
+   "symbol": "XBI",
+   "name": "Bitcoin Incognito"
+ },
+ {
+   "id": 1137,
+   "symbol": "XDC",
+   "name": "XinFin"
+ },
+ {
+   "id": 798,
+   "symbol": "XGK",
+   "name": "GoldKash"
+ },
+ {
+   "id": 755,
+   "symbol": "XRP",
+   "name": "Ripple"
+ },
+ {
+   "id": 1240,
+   "symbol": "XZT",
+   "name": "ZetanetCoin"
+ },
+ {
+   "id": 593,
+   "symbol": "ZEN",
+   "name": "Horizen"
+ },
+ {
+   "id": 944,
+   "symbol": "ZEUS",
+   "name": "ZeusNetwork"
+ },
+ {
+   "id": 1012,
+   "symbol": "ZNN",
+   "name": "Zenon"
+ },
+ {
+   "id": 880,
+   "symbol": "ZUM",
+   "name": "Zumcoin"
+ }
+]

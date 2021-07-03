@@ -1,0 +1,64 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  width: 910px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 30px;
+  color: #666;
+  margin: 0 0 20px 0;
+  text-align: center;
+}
+
+.column {
+  width: 300px;
+  display: inline-block;
+  text-align: center;
+}
+
+.column h2 {
+  text-align: center;
+}
+
+.column:nth-child(3) h2 {
+  text-align: center;
+}
+
+.column:nth-child(3) div {
+  text-align: center;
+}
+
+.yellow_column {
+  width: 300px;
+  display: inline-block;
+  text-align: center;
+  color: red;
+}
+
+.yellow_column h2 {
+  text-align: center;
+  color: black;
+}
+
+.td  {text-align: center;
+      vertical-align: middle;
+      height:20px}
+
+.td1 {text-align: center;
+      vertical-align: middle;
+      width:180px;
+      height:20px;}
+
+#buy {background-color: green;
+      text-align: center; 
+      vertical-align: middle;}
+
+#sell {background-color: orange;
+       text-align: center; 
+       vertical-align: middle;}
+
+
+a {
+  color: #00B7FF;
+}
